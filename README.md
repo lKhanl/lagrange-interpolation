@@ -1,1 +1,1 @@
-# Lagrange-Interpolation-Polynomial
+# lagrange-interpolation
